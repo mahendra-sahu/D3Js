@@ -1,0 +1,20 @@
+{
+"links": [
+{"source":"src1","target":"target1","value":"1"},
+{"source":"target1","target":"target2","value":"2"},
+{"source":"src2","target":"target2","value":"3"},
+{"source":"target2","target":"src3","value":"4"}
+
+] ,
+"nodes": [
+{"name":"src1"},
+{"name":"src2"},
+{"name":"src3"},
+{"name":"src4"},
+{"name":"src5"},
+{"name":"src6"},
+{"name":"target1"},
+{"name":"target2"},
+{"name":"src7"}
+
+] }

@@ -1,0 +1,10 @@
+source,target,value
+mainprofile,SCI,1
+subprofile,SCI,1
+REL,ebbs,1
+country,ebbs,1
+systemRisk,ecdd,1
+SCI,CUST,2
+ebbs,CUST,2
+ecdd,CUST,1
+CUST,Report,5
